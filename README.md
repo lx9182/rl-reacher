@@ -63,7 +63,7 @@ To set up your python environment to run the code in this repository, follow the
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
 
 ### Training result
-![video](images/result.mp4)
+![video](images/result.gif)
 
 ![result](images/result.png)
 
